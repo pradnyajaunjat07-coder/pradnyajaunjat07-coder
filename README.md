@@ -11,14 +11,14 @@
 ## 💫 About Me
 
 - 👋 Hi, I'm **Pradnya Jaunjat!**
-- Computer Engineering Student | Developer | Lifelong Learner
-- Exploring the world of programming, software development, and creative technology.
-- I enjoy learning by building projects, solving problems, and turning ideas into practical solutions. I'm currently strengthening my programming fundamentals while exploring web development and new technologies.
-- Currently learning Python, Java, and problem-solving
-- Building projects and practicing through hands-on coding
-- Interested in Web Development, Software Engineering, and AI
-- **Goal:** Grow into a skilled software engineer and build meaningful technology
-- **Motto:** Take a break, restart, and keep going until it's done!
+- 🎓 Computer Engineering Student | Developer | Lifelong Learner
+- 💜 Exploring the world of programming, software development, and creative technology.
+- ✨ I enjoy learning by building projects, solving problems, and turning ideas into practical solutions. I'm currently strengthening my programming fundamentals while exploring web development and new technologies.
+- 🐍 Currently learning Python, Java, and problem-solving
+- 💻 Building projects and practicing through hands-on coding
+- 🚀 Interested in Web Development, Software Engineering, and AI
+- 🎯 **Goal:** Grow into a skilled software engineer and build meaningful technology
+- 🌙 **Motto:** Take a break, restart, and keep going until it's done!
 
 ---
 
@@ -69,12 +69,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=pradnyajaunjat07-coder&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pradnyajaunjat07-coder&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com/?user=pradnyajaunjat07-coder&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pradnyajaunjat07-coder&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradnyajaunjat07-coder&theme=midnight-purple&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
@@ -95,12 +95,18 @@
 
 ---
 
+## 💜 Profile Visitors
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pradnyajaunjat07-coder&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <p align="center">
   💜 <i>Take a break, restart, and keep going until it's done!</i> 💜
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:30105E,100:0D0B14&height=3" width="100%" />
 </p>
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
