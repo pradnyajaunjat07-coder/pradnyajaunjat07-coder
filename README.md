@@ -1,6 +1,6 @@
 <!-- 💜 PURPLE & BLACK GITHUB PROFILE README -->
 
-<h1 align="center">💜 Pradnya Jaunjat</h1>
+<h1 align="center">💜 Pradnya Jaunjat 💜</h1>
 
 <h3 align="center">🎓 Computer Engineering Student | Developer | Lifelong Learner</h3>
 
