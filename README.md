@@ -11,14 +11,14 @@
 ## 💫 About Me
 
 - 👋 Hi, I'm **Pradnya Jaunjat!**
-- 🎓 Computer Engineering Student | Developer | Lifelong Learner
-- 💜 Exploring the world of programming, software development, and creative technology.
-- ✨ I enjoy learning by building projects, solving problems, and turning ideas into practical solutions. I'm currently strengthening my programming fundamentals while exploring web development and new technologies.
-- 🐍 Currently learning Python, Java, and problem-solving
-- 💻 Building projects and practicing through hands-on coding
-- 🚀 Interested in Web Development, Software Engineering, and AI
-- 🎯 **Goal:** Grow into a skilled software engineer and build meaningful technology
-- 🌙 **Motto:** Take a break, restart, and keep going until it's done!
+- Computer Engineering Student | Developer | Lifelong Learner
+- Exploring the world of programming, software development, and creative technology.
+- I enjoy learning by building projects, solving problems, and turning ideas into practical solutions. I'm currently strengthening my programming fundamentals while exploring web development and new technologies.
+- Currently learning Python, Java, and problem-solving
+- Building projects and practicing through hands-on coding
+- Interested in Web Development, Software Engineering, and AI
+- **Goal:** Grow into a skilled software engineer and build meaningful technology
+- **Motto:** Take a break, restart, and keep going until it's done!
 
 ---
 
